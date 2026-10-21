@@ -416,6 +416,35 @@
         "原书破折号被OCR识别为一或一—"
       ],
       "sha256": "23f895010d24146cb9d427329445cc8870acc641db980ae9b7a816c033afccb2"
+    },
+    {
+      "file": "笔记/毛中特-03.md",
+      "title": "毛中特 第三章 社会主义改造理论",
+      "printed_pages": [
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112
+      ],
+      "source_pdf_pages_reviewed": [
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121
+      ],
+      "start_boundary": "原PDF第115页第三章标题",
+      "end_boundary": "原PDF第121页第四章标题之前",
+      "visual_review": true,
+      "tables_expanded": true,
+      "advertisements_headers_footers_removed": true,
+      "ocr_differences_checked": [],
+      "sha256": "8fd02753f50c49d6a049c60bf54028a98536beae5fb3f6b9bdda7863777e914c"
     }
   ],
   "all_chapters_complete": false
