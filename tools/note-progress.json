@@ -373,6 +373,49 @@
       "advertisements_headers_footers_removed": true,
       "ocr_differences_checked": [],
       "sha256": "3d820c0ce47ac140eda1eec786d755fc7724d72e0b6909b412218602855a648f"
+    },
+    {
+      "file": "笔记/毛中特-02.md",
+      "title": "毛中特 第二章 新民主主义革命理论",
+      "printed_pages": [
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106
+      ],
+      "source_pdf_pages_reviewed": [
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115
+      ],
+      "start_boundary": "原PDF第103页第二章标题",
+      "end_boundary": "原PDF第115页第三章标题之前",
+      "visual_review": true,
+      "tables_expanded": true,
+      "advertisements_headers_footers_removed": true,
+      "ocr_differences_checked": [
+        "原书破折号被OCR识别为一或一—"
+      ],
+      "sha256": "23f895010d24146cb9d427329445cc8870acc641db980ae9b7a816c033afccb2"
     }
   ],
   "all_chapters_complete": false
