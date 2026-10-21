@@ -1,0 +1,64 @@
+{
+  "source_sha256": "6996f6c200a1ae4cde6c85feba90d0cdee7cc2637be1dd8717909aded30569f7",
+  "notes_requirement_version": 2,
+  "completed_chapters": [
+    {
+      "file": "笔记/马原-00.md",
+      "title": "马原 导论",
+      "printed_pages": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "source_pdf_pages_reviewed": [
+        11,
+        12,
+        13,
+        14
+      ],
+      "end_boundary": "原PDF第14页中部第一章标题之前",
+      "visual_review": true,
+      "tables_expanded": true,
+      "advertisements_headers_footers_removed": true
+    },
+    {
+      "file": "笔记/马原-01.md",
+      "title": "马原 第一章 辩证唯物论",
+      "printed_pages": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "source_pdf_pages_reviewed": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "start_boundary": "原PDF第14页中部第一章标题",
+      "end_boundary": "原PDF第25页末",
+      "visual_review": true,
+      "tables_expanded": true,
+      "advertisements_headers_footers_removed": true
+    }
+  ],
+  "all_chapters_complete": false
+}
