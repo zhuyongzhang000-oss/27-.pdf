@@ -20,7 +20,8 @@
       "end_boundary": "原PDF第14页中部第一章标题之前",
       "visual_review": true,
       "tables_expanded": true,
-      "advertisements_headers_footers_removed": true
+      "advertisements_headers_footers_removed": true,
+      "sha256": "fa2baabf5911dd6a17935edf367622c8e3b3bf850c670cc2ef61d9278bc9f71b"
     },
     {
       "file": "笔记/马原-01.md",
@@ -57,7 +58,93 @@
       "end_boundary": "原PDF第25页末",
       "visual_review": true,
       "tables_expanded": true,
-      "advertisements_headers_footers_removed": true
+      "advertisements_headers_footers_removed": true,
+      "sha256": "fcec7c283f60c7584e67b2a2094782940b003706138b2923ceebb4e98509ff96"
+    },
+    {
+      "file": "笔记/马原-02.md",
+      "title": "马原 第二章 唯物辩证法",
+      "printed_pages": [
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "source_pdf_pages_reviewed": [
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37
+      ],
+      "visual_review": true,
+      "tables_expanded": true,
+      "advertisements_headers_footers_removed": true,
+      "ocr_differences_checked": [
+        "原书跬被OCR漏识别",
+        "原书破折号被OCR识别为一",
+        "原书水滴石会穿按原样保留"
+      ],
+      "sha256": "e467473f1f7c55c80b5d70fb5ce7340a5b2bec67ffcbe2fd7027c3f734158d0c"
+    },
+    {
+      "file": "笔记/马原-03.md",
+      "title": "马原 第三章 认识论",
+      "printed_pages": [
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42
+      ],
+      "source_pdf_pages_reviewed": [
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51
+      ],
+      "end_boundary": "原PDF第51页第四章标题之前",
+      "visual_review": true,
+      "tables_expanded": true,
+      "advertisements_headers_footers_removed": true,
+      "ocr_differences_checked": [
+        "原书破折号被OCR识别为一"
+      ],
+      "sha256": "afbdb19ab4423c900f1cedd06cb20a3390ce3310c2e49b379597418603ea798a"
     }
   ],
   "all_chapters_complete": false
