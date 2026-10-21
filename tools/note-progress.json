@@ -267,6 +267,66 @@
         "两大部类罗马数字I/II被OCR识别为数字1/l；逐项原页核对"
       ],
       "sha256": "f2bf0d9521db66791011a996100eed29bb05a4494a98b3a2c804caab5ee6730b"
+    },
+    {
+      "file": "笔记/马原-07.md",
+      "title": "马原 第七章 资本主义的发展及其趋势",
+      "printed_pages": [
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82
+      ],
+      "source_pdf_pages_reviewed": [
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91
+      ],
+      "start_boundary": "原PDF第84页第七章标题",
+      "end_boundary": "原PDF第91页第八章标题之前",
+      "ocr_differences_checked": [
+        "趋势被OCR识别为超势",
+        "攫取被OCR识别为搜取",
+        "弊端的弊被OCR漏识别"
+      ],
+      "visual_review": true,
+      "tables_expanded": true,
+      "advertisements_headers_footers_removed": true,
+      "sha256": "25cc161d1c127dbb05931b23d258fcfb887731213f595d6fd9c8827772fae715"
+    },
+    {
+      "file": "笔记/马原-08.md",
+      "title": "马原 第八章 科学社会主义",
+      "printed_pages": [
+        82,
+        83,
+        84,
+        85,
+        86
+      ],
+      "source_pdf_pages_reviewed": [
+        91,
+        92,
+        93,
+        94,
+        95
+      ],
+      "start_boundary": "原PDF第91页第八章标题",
+      "end_boundary": "原PDF第95页末",
+      "ocr_differences_checked": [],
+      "visual_review": true,
+      "tables_expanded": true,
+      "advertisements_headers_footers_removed": true,
+      "sha256": "17a4d9018301eef55d955db5cfc612c1735b60e17c451666ec74adb230f0dd40"
     }
   ],
   "all_chapters_complete": false
