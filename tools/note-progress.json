@@ -445,6 +445,56 @@
       "advertisements_headers_footers_removed": true,
       "ocr_differences_checked": [],
       "sha256": "8fd02753f50c49d6a049c60bf54028a98536beae5fb3f6b9bdda7863777e914c"
+    },
+    {
+      "file": "笔记/毛中特-04.md",
+      "title": "毛中特 第四章 社会主义建设道路初步探索的理论成果",
+      "printed_pages": [
+        112,
+        113,
+        114,
+        115,
+        116,
+        117
+      ],
+      "source_pdf_pages_reviewed": [
+        121,
+        122,
+        123,
+        124,
+        125,
+        126
+      ],
+      "start_boundary": "原PDF第121页第四章标题",
+      "end_boundary": "原PDF第126页第五章标题之前",
+      "visual_review": true,
+      "tables_expanded": true,
+      "advertisements_headers_footers_removed": true,
+      "ocr_differences_checked": [
+        "破折号被OCR识别为一；标题附录提示移至独立一行"
+      ],
+      "sha256": "ef8d9a7beacb1b2457c3636d63ebd136f5090f8e8130893de72a08c84439c9fe"
+    },
+    {
+      "file": "笔记/毛中特-05.md",
+      "title": "毛中特 第五章 中国特色社会主义理论体系的形成发展",
+      "printed_pages": [
+        117,
+        118,
+        119
+      ],
+      "source_pdf_pages_reviewed": [
+        126,
+        127,
+        128
+      ],
+      "start_boundary": "原PDF第126页第五章标题",
+      "end_boundary": "原PDF第128页第六章标题之前",
+      "visual_review": true,
+      "tables_expanded": true,
+      "advertisements_headers_footers_removed": true,
+      "ocr_differences_checked": [],
+      "sha256": "18aec8e314380ec18a6d31e39bf9340a73a863e5a4b6a2cbfa596621f73420e0"
     }
   ],
   "all_chapters_complete": false
