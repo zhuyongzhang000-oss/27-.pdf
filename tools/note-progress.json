@@ -186,6 +186,39 @@
         "原书揠苗助长的揠被OCR漏识别"
       ],
       "sha256": "9eedfb6f9a35fa5f18c08806ee99a7fa8c9ec92178fe3f09a76498573966f58a"
+    },
+    {
+      "file": "笔记/马原-05.md",
+      "title": "马原 第五章 劳动价值论（简单商品经济）",
+      "printed_pages": [
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61
+      ],
+      "source_pdf_pages_reviewed": [
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70
+      ],
+      "start_boundary": "原PDF第62页第五章标题",
+      "end_boundary": "原PDF第70页第六章标题之前",
+      "visual_review": true,
+      "tables_expanded": true,
+      "advertisements_headers_footers_removed": true,
+      "ocr_differences_checked": [],
+      "sha256": "db133a9a1429c96d56260669d047d2f75db6303a4e8a1e5df6c56585cd7ab46a"
     }
   ],
   "all_chapters_complete": false
