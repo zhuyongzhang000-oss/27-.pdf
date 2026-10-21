@@ -219,6 +219,54 @@
       "advertisements_headers_footers_removed": true,
       "ocr_differences_checked": [],
       "sha256": "db133a9a1429c96d56260669d047d2f75db6303a4e8a1e5df6c56585cd7ab46a"
+    },
+    {
+      "file": "笔记/马原-06.md",
+      "title": "马原 第六章 剩余价值论（发达商品经济）",
+      "printed_pages": [
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75
+      ],
+      "source_pdf_pages_reviewed": [
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84
+      ],
+      "start_boundary": "原PDF第70页第六章标题",
+      "end_boundary": "原PDF第84页第七章标题之前",
+      "visual_review": true,
+      "tables_expanded": true,
+      "advertisements_headers_footers_removed": true,
+      "ocr_differences_checked": [
+        "原书破折号被OCR识别为一",
+        "两大部类罗马数字I/II被OCR识别为数字1/l；逐项原页核对"
+      ],
+      "sha256": "f2bf0d9521db66791011a996100eed29bb05a4494a98b3a2c804caab5ee6730b"
     }
   ],
   "all_chapters_complete": false
