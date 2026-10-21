@@ -327,6 +327,52 @@
       "tables_expanded": true,
       "advertisements_headers_footers_removed": true,
       "sha256": "17a4d9018301eef55d955db5cfc612c1735b60e17c451666ec74adb230f0dd40"
+    },
+    {
+      "file": "笔记/毛中特-00.md",
+      "title": "毛中特 导论 马克思主义中国化时代化的历史进程与理论成果",
+      "printed_pages": [
+        88,
+        89,
+        90,
+        91
+      ],
+      "source_pdf_pages_reviewed": [
+        97,
+        98,
+        99,
+        100
+      ],
+      "start_boundary": "原PDF第97页导论标题",
+      "end_boundary": "原PDF第100页第一章标题之前",
+      "visual_review": true,
+      "tables_expanded": true,
+      "advertisements_headers_footers_removed": true,
+      "ocr_differences_checked": [],
+      "sha256": "896fcf41fb4f154f2c34a18580c88d94dc71cb0e7e1e673e73361679b08fde6a"
+    },
+    {
+      "file": "笔记/毛中特-01.md",
+      "title": "毛中特 第一章 毛泽东思想及其历史地位",
+      "printed_pages": [
+        91,
+        92,
+        93,
+        94
+      ],
+      "source_pdf_pages_reviewed": [
+        100,
+        101,
+        102,
+        103
+      ],
+      "start_boundary": "原PDF第100页第一章标题",
+      "end_boundary": "原PDF第103页第二章标题之前",
+      "visual_review": true,
+      "tables_expanded": true,
+      "advertisements_headers_footers_removed": true,
+      "ocr_differences_checked": [],
+      "sha256": "3d820c0ce47ac140eda1eec786d755fc7724d72e0b6909b412218602855a648f"
     }
   ],
   "all_chapters_complete": false
