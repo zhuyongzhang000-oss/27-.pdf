@@ -145,6 +145,47 @@
         "原书破折号被OCR识别为一"
       ],
       "sha256": "afbdb19ab4423c900f1cedd06cb20a3390ce3310c2e49b379597418603ea798a"
+    },
+    {
+      "file": "笔记/马原-04.md",
+      "title": "马原 第四章 唯物史观",
+      "printed_pages": [
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53
+      ],
+      "source_pdf_pages_reviewed": [
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62
+      ],
+      "start_boundary": "原PDF第51页第四章标题",
+      "end_boundary": "原PDF第62页第五章标题之前",
+      "visual_review": true,
+      "tables_expanded": true,
+      "advertisements_headers_footers_removed": true,
+      "ocr_differences_checked": [
+        "原书揠苗助长的揠被OCR漏识别"
+      ],
+      "sha256": "9eedfb6f9a35fa5f18c08806ee99a7fa8c9ec92178fe3f09a76498573966f58a"
     }
   ],
   "all_chapters_complete": false
