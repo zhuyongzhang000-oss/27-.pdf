@@ -728,6 +728,31 @@
       "advertisements_headers_footers_removed": true,
       "ocr_differences_checked": [],
       "sha256": "22b3d8ab2d9515ce081d2d4877e5fc37651d5e90ba9a8b42647e2fe582020994"
+    },
+    {
+      "file": "笔记/习思想-07.md",
+      "title": "习思想 第七章 社会主义现代化建设的教育、科技、人才战略",
+      "printed_pages": [
+        161,
+        162,
+        163,
+        164,
+        165
+      ],
+      "source_pdf_pages_reviewed": [
+        170,
+        171,
+        172,
+        173,
+        174
+      ],
+      "start_boundary": "原PDF第170页第七章标题",
+      "end_boundary": "原PDF第174页第八～九章标题之前",
+      "visual_review": true,
+      "tables_expanded": true,
+      "advertisements_headers_footers_removed": true,
+      "ocr_differences_checked": [],
+      "sha256": "60b3847eeb7d893ed5bf195a28dc8622888a59a438c5ae67c62d754c19af0ccb"
     }
   ],
   "all_chapters_complete": false
