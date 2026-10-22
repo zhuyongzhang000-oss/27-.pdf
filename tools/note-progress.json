@@ -753,6 +753,35 @@
       "advertisements_headers_footers_removed": true,
       "ocr_differences_checked": [],
       "sha256": "60b3847eeb7d893ed5bf195a28dc8622888a59a438c5ae67c62d754c19af0ccb"
+    },
+    {
+      "file": "笔记/习思想-08-09.md",
+      "title": "习思想 第八～九章 中国特色社会主义民主与法治建设",
+      "printed_pages": [
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171
+      ],
+      "source_pdf_pages_reviewed": [
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180
+      ],
+      "start_boundary": "原PDF第174页第八～九章标题",
+      "end_boundary": "原PDF第180页第十章标题之前",
+      "visual_review": true,
+      "tables_expanded": true,
+      "advertisements_headers_footers_removed": true,
+      "ocr_differences_checked": [],
+      "sha256": "91ebeec43ec1ee8f74729950009de5c83d068844e947bb41e44ed4697c9e4d4a"
     }
   ],
   "all_chapters_complete": false
