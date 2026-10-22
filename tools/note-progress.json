@@ -495,6 +495,60 @@
       "advertisements_headers_footers_removed": true,
       "ocr_differences_checked": [],
       "sha256": "18aec8e314380ec18a6d31e39bf9340a73a863e5a4b6a2cbfa596621f73420e0"
+    },
+    {
+      "file": "笔记/毛中特-06.md",
+      "title": "毛中特 第六章 邓小平理论",
+      "printed_pages": [
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127
+      ],
+      "source_pdf_pages_reviewed": [
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136
+      ],
+      "start_boundary": "原PDF第128页第六章标题",
+      "end_boundary": "原PDF第136页第七～八章标题之前",
+      "visual_review": true,
+      "tables_expanded": true,
+      "advertisements_headers_footers_removed": true,
+      "ocr_differences_checked": [
+        "原书a./b.例句序号依用户格式转换为对错项目；内联答案标题拆为标题和正文"
+      ],
+      "sha256": "655d98246dff1a4b2904cb049e60babbd797918b461bacd7982e50130813530d"
+    },
+    {
+      "file": "笔记/毛中特-07-08.md",
+      "title": "毛中特 第七～八章 “三个代表”重要思想和科学发展观",
+      "printed_pages": [
+        127,
+        128
+      ],
+      "source_pdf_pages_reviewed": [
+        136,
+        137
+      ],
+      "start_boundary": "原PDF第136页第七～八章标题",
+      "end_boundary": "原PDF第137页末",
+      "visual_review": true,
+      "tables_expanded": true,
+      "advertisements_headers_footers_removed": true,
+      "ocr_differences_checked": [],
+      "sha256": "b40f3eba8cd8d048df4d61d7c7d02a527a7fe6b421362261f475331d2d5fbf20"
     }
   ],
   "all_chapters_complete": false
