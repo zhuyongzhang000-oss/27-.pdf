@@ -593,6 +593,71 @@
       "advertisements_headers_footers_removed": true,
       "ocr_differences_checked": [],
       "sha256": "c88aecd4e4fcdece4c2f8495d3b8293f5030a833d62c254b959d047eb16c08b2"
+    },
+    {
+      "file": "笔记/习思想-02.md",
+      "title": "习思想 第二章 以中国式现代化全面推进中华民族伟大复兴",
+      "printed_pages": [
+        136,
+        137,
+        138,
+        139
+      ],
+      "source_pdf_pages_reviewed": [
+        145,
+        146,
+        147,
+        148
+      ],
+      "start_boundary": "原PDF第145页第二章标题",
+      "end_boundary": "原PDF第148页第三章标题之前",
+      "visual_review": true,
+      "tables_expanded": true,
+      "advertisements_headers_footers_removed": true,
+      "ocr_differences_checked": [],
+      "sha256": "d9d3ebe9626f405c348983b1ad0b7565e6c1710e8abe623efd3405ee389ca58c"
+    },
+    {
+      "file": "笔记/习思想-03.md",
+      "title": "习思想 第三章 坚持党的全面领导",
+      "printed_pages": [
+        139,
+        140,
+        141
+      ],
+      "source_pdf_pages_reviewed": [
+        148,
+        149,
+        150
+      ],
+      "start_boundary": "原PDF第148页第三章标题",
+      "end_boundary": "原PDF第150页第四章标题之前",
+      "visual_review": true,
+      "tables_expanded": true,
+      "advertisements_headers_footers_removed": true,
+      "ocr_differences_checked": [],
+      "sha256": "92eed82b103350bc6df998bbb65fa0a6f029d7ad909d5025a3987d0380c7f1fd"
+    },
+    {
+      "file": "笔记/习思想-04.md",
+      "title": "习思想 第四章 坚持以人民为中心",
+      "printed_pages": [
+        141,
+        142,
+        143
+      ],
+      "source_pdf_pages_reviewed": [
+        150,
+        151,
+        152
+      ],
+      "start_boundary": "原PDF第150页第四章标题",
+      "end_boundary": "原PDF第152页第五章标题之前",
+      "visual_review": true,
+      "tables_expanded": true,
+      "advertisements_headers_footers_removed": true,
+      "ocr_differences_checked": [],
+      "sha256": "e0b6a9312888cd25e1b1355fba06c6b5e02c7c7dd8221a0b08b018bb152b3ee7"
     }
   ],
   "all_chapters_complete": false
