@@ -549,6 +549,50 @@
       "advertisements_headers_footers_removed": true,
       "ocr_differences_checked": [],
       "sha256": "b40f3eba8cd8d048df4d61d7c7d02a527a7fe6b421362261f475331d2d5fbf20"
+    },
+    {
+      "file": "笔记/习思想-00.md",
+      "title": "习思想 导论",
+      "printed_pages": [
+        130,
+        131,
+        132
+      ],
+      "source_pdf_pages_reviewed": [
+        139,
+        140,
+        141
+      ],
+      "start_boundary": "原PDF第139页导论标题",
+      "end_boundary": "原PDF第141页第一章标题之前",
+      "visual_review": true,
+      "tables_expanded": true,
+      "advertisements_headers_footers_removed": true,
+      "ocr_differences_checked": [],
+      "sha256": "3d9b2d83db590698c614d3a080a3f11e976466e85798dc8107678c63869cfd60"
+    },
+    {
+      "file": "笔记/习思想-01.md",
+      "title": "习思想 第一章 新时代坚持和发展中国特色社会主义",
+      "printed_pages": [
+        132,
+        133,
+        134,
+        135
+      ],
+      "source_pdf_pages_reviewed": [
+        141,
+        142,
+        143,
+        144
+      ],
+      "start_boundary": "原PDF第141页第一章标题",
+      "end_boundary": "原PDF第144页末",
+      "visual_review": true,
+      "tables_expanded": true,
+      "advertisements_headers_footers_removed": true,
+      "ocr_differences_checked": [],
+      "sha256": "c88aecd4e4fcdece4c2f8495d3b8293f5030a833d62c254b959d047eb16c08b2"
     }
   ],
   "all_chapters_complete": false
