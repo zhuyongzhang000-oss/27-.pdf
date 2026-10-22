@@ -851,6 +851,180 @@
         "第三条题干与答案分段标注印刷页码"
       ],
       "sha256": "8f68bf2c84a7fdbf93ae4d18ec49f57ba8b524af60fe057e40b99f10bf04eabf"
+    },
+    {
+      "file": "笔记/习思想-13-15.md",
+      "title": "习思想 第十三～十五章 国家安全、国防军队和“一国两制”",
+      "printed_pages": [
+        179,
+        180,
+        181,
+        182,
+        183,
+        184
+      ],
+      "source_pdf_pages_reviewed": [
+        188,
+        189,
+        190,
+        191,
+        192,
+        193
+      ],
+      "start_boundary": "原PDF第188页第十三～十五章标题",
+      "end_boundary": "原PDF第193页第十六章标题之前",
+      "visual_review": true,
+      "tables_expanded": true,
+      "advertisements_headers_footers_removed": true,
+      "ocr_differences_checked": [
+        "保留原书重复字对对台；OCR漏赓、将祉误识为社，已查原图"
+      ],
+      "sha256": "a57166a0c17785c3a75e15fb9ef2112ba085aa64313c46e3b8737f4182f70b3b"
+    },
+    {
+      "file": "笔记/习思想-16.md",
+      "title": "习思想 第十六章 中国特色大国外交和推动构建人类命运共同体",
+      "printed_pages": [
+        184,
+        185,
+        186,
+        187,
+        188
+      ],
+      "source_pdf_pages_reviewed": [
+        193,
+        194,
+        195,
+        196,
+        197
+      ],
+      "start_boundary": "原PDF第193页第十六章标题",
+      "end_boundary": "原PDF第197页末",
+      "visual_review": true,
+      "tables_expanded": true,
+      "advertisements_headers_footers_removed": true,
+      "ocr_differences_checked": [
+        "OCR将隔阂误识为隔阁，已查原图"
+      ],
+      "sha256": "190f05c6d748e8183c038befd1cb9c6911b5b41fdbb42c58633343f97acc3b56"
+    },
+    {
+      "file": "笔记/习思想-17.md",
+      "title": "习思想 第十七章 全面从严治党",
+      "printed_pages": [
+        189,
+        190,
+        191
+      ],
+      "source_pdf_pages_reviewed": [
+        198,
+        199,
+        200
+      ],
+      "start_boundary": "原PDF第198页第十七章标题",
+      "end_boundary": "原PDF第200页末，201为空白页",
+      "visual_review": true,
+      "tables_expanded": true,
+      "advertisements_headers_footers_removed": true,
+      "ocr_differences_checked": [
+        "第三条题干与答案分段标注印刷页码"
+      ],
+      "sha256": "086ae4cda65e3c3dfa3fcc9dd58b3f6ed45546e28a09a7981f8e96242ab8fceb"
+    },
+    {
+      "file": "笔记/史纲-01.md",
+      "title": "史纲 第一章 进入近代后中华民族的磨难与抗争",
+      "printed_pages": [
+        194,
+        195,
+        196,
+        197,
+        198,
+        199,
+        200
+      ],
+      "source_pdf_pages_reviewed": [
+        203,
+        204,
+        205,
+        206,
+        207,
+        208,
+        209
+      ],
+      "start_boundary": "原PDF第203页第一章标题",
+      "end_boundary": "原PDF第209页第二章标题之前",
+      "visual_review": true,
+      "tables_expanded": true,
+      "advertisements_headers_footers_removed": true,
+      "ocr_differences_checked": [
+        "题干与答案分段标页；OCR将沦误识为论、连接号误识为一，已查原图"
+      ],
+      "sha256": "c5195c4627fd844dbfb618f29f17aa14e8fd51491d38ea791280ba85df8370fa"
+    },
+    {
+      "file": "笔记/史纲-02.md",
+      "title": "史纲 第二章 不同社会力量对国家出路的早期探索",
+      "printed_pages": [
+        200,
+        201,
+        202,
+        203,
+        204,
+        205,
+        206
+      ],
+      "source_pdf_pages_reviewed": [
+        209,
+        210,
+        211,
+        212,
+        213,
+        214,
+        215
+      ],
+      "start_boundary": "原PDF第209页第二章标题",
+      "end_boundary": "原PDF第215页末",
+      "visual_review": true,
+      "tables_expanded": true,
+      "advertisements_headers_footers_removed": true,
+      "ocr_differences_checked": [
+        "OCR将戊戌误识为戊成、破折号误识为一，已查原图"
+      ],
+      "sha256": "dfcbaaf851e7d5d0afca6b3a49cceaa852b65720247dbb77e9bae8cf3acfc339"
+    },
+    {
+      "file": "笔记/史纲-03.md",
+      "title": "史纲 第三章 辛亥革命与君主专制制度的终结",
+      "printed_pages": [
+        207,
+        208,
+        209,
+        210,
+        211,
+        212,
+        213,
+        214
+      ],
+      "source_pdf_pages_reviewed": [
+        216,
+        217,
+        218,
+        219,
+        220,
+        221,
+        222,
+        223
+      ],
+      "start_boundary": "原PDF第216页第三章标题",
+      "end_boundary": "原PDF第223页第四章标题之前",
+      "visual_review": true,
+      "tables_expanded": true,
+      "advertisements_headers_footers_removed": true,
+      "ocr_differences_checked": [
+        "OCR将锷误识为鳄、漏鞑、破折号误识为一，已查原图"
+      ],
+      "sha256": "e1499eaefa86d2b3acffadfed20dc15028dd94cfc09ef1bf337aed6a2407445b"
     }
   ],
   "all_chapters_complete": false
