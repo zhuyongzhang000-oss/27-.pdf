@@ -782,6 +782,75 @@
       "advertisements_headers_footers_removed": true,
       "ocr_differences_checked": [],
       "sha256": "91ebeec43ec1ee8f74729950009de5c83d068844e947bb41e44ed4697c9e4d4a"
+    },
+    {
+      "file": "笔记/习思想-10.md",
+      "title": "习思想 第十章 建设社会主义文化强国",
+      "printed_pages": [
+        171,
+        172,
+        173,
+        174
+      ],
+      "source_pdf_pages_reviewed": [
+        180,
+        181,
+        182,
+        183
+      ],
+      "start_boundary": "原PDF第180页第十章标题",
+      "end_boundary": "原PDF第183页末",
+      "visual_review": true,
+      "tables_expanded": true,
+      "advertisements_headers_footers_removed": true,
+      "ocr_differences_checked": [],
+      "sha256": "ecbfdd77f8a6c2691a838faab33068db7be83129a216413661814ef13efb49ad"
+    },
+    {
+      "file": "笔记/习思想-11.md",
+      "title": "习思想 第十一章 以保障和改善民生为重点加强社会建设",
+      "printed_pages": [
+        175,
+        176,
+        177
+      ],
+      "source_pdf_pages_reviewed": [
+        184,
+        185,
+        186
+      ],
+      "start_boundary": "原PDF第184页第十一章标题",
+      "end_boundary": "原PDF第186页第十二章标题之前",
+      "visual_review": true,
+      "tables_expanded": true,
+      "advertisements_headers_footers_removed": true,
+      "ocr_differences_checked": [
+        "OCR将福祉误识为福社，已查原图"
+      ],
+      "sha256": "e0735459b8dee6c535a35a167565e4d689d7b02b6dc57ebda10869bddc9e80e8"
+    },
+    {
+      "file": "笔记/习思想-12.md",
+      "title": "习思想 第十二章 建设社会主义生态文明",
+      "printed_pages": [
+        177,
+        178,
+        179
+      ],
+      "source_pdf_pages_reviewed": [
+        186,
+        187,
+        188
+      ],
+      "start_boundary": "原PDF第186页第十二章标题",
+      "end_boundary": "原PDF第188页第十三～十五章标题之前",
+      "visual_review": true,
+      "tables_expanded": true,
+      "advertisements_headers_footers_removed": true,
+      "ocr_differences_checked": [
+        "第三条题干与答案分段标注印刷页码"
+      ],
+      "sha256": "8f68bf2c84a7fdbf93ae4d18ec49f57ba8b524af60fe057e40b99f10bf04eabf"
     }
   ],
   "all_chapters_complete": false
