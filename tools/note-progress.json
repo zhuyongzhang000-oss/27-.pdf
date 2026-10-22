@@ -658,6 +658,35 @@
       "advertisements_headers_footers_removed": true,
       "ocr_differences_checked": [],
       "sha256": "e0b6a9312888cd25e1b1355fba06c6b5e02c7c7dd8221a0b08b018bb152b3ee7"
+    },
+    {
+      "file": "笔记/习思想-05.md",
+      "title": "习思想 第五章 全面深化改革开放",
+      "printed_pages": [
+        143,
+        144,
+        145,
+        146,
+        147,
+        148
+      ],
+      "source_pdf_pages_reviewed": [
+        152,
+        153,
+        154,
+        155,
+        156,
+        157
+      ],
+      "start_boundary": "原PDF第152页第五章标题",
+      "end_boundary": "原PDF第157页末",
+      "visual_review": true,
+      "tables_expanded": true,
+      "advertisements_headers_footers_removed": true,
+      "ocr_differences_checked": [
+        "福祉被OCR识别为福社；⑤被OCR识别为数字5"
+      ],
+      "sha256": "d73bc84349c53769e078eaddc895a5a6740b2cc301084faad260a6b3cdf6084b"
     }
   ],
   "all_chapters_complete": false
