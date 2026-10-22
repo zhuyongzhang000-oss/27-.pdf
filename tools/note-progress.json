@@ -687,6 +687,47 @@
         "福祉被OCR识别为福社；⑤被OCR识别为数字5"
       ],
       "sha256": "d73bc84349c53769e078eaddc895a5a6740b2cc301084faad260a6b3cdf6084b"
+    },
+    {
+      "file": "笔记/习思想-06.md",
+      "title": "习思想 第六章 推动高质量发展",
+      "printed_pages": [
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161
+      ],
+      "source_pdf_pages_reviewed": [
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170
+      ],
+      "start_boundary": "原PDF第158页第六章标题",
+      "end_boundary": "原PDF第170页第七章标题之前",
+      "visual_review": true,
+      "tables_expanded": true,
+      "advertisements_headers_footers_removed": true,
+      "ocr_differences_checked": [],
+      "sha256": "22b3d8ab2d9515ce081d2d4877e5fc37651d5e90ba9a8b42647e2fe582020994"
     }
   ],
   "all_chapters_complete": false
