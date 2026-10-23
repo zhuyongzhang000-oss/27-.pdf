@@ -1327,7 +1327,110 @@
       "advertisements_headers_footers_removed": true,
       "ocr_differences_checked": [],
       "sha256": "f282d318cc57fa0c22dc90f39811aa3bab03a3b1b2751c1cde49b9ec0a90e217"
+    },
+    {
+      "file": "笔记/思法-05.md",
+      "title": "思法 第五章 遵守道德规范 锤炼道德品格",
+      "printed_pages": [
+        280,
+        281,
+        282,
+        283,
+        284,
+        285,
+        286,
+        287,
+        288
+      ],
+      "source_pdf_pages_reviewed": [
+        289,
+        290,
+        291,
+        292,
+        293,
+        294,
+        295,
+        296,
+        297
+      ],
+      "start_boundary": "原PDF第289页第五章标题",
+      "end_boundary": "原PDF第297页末",
+      "visual_review": true,
+      "tables_expanded": true,
+      "advertisements_headers_footers_removed": true,
+      "ocr_differences_checked": [
+        "核对古诗文原图，保留原书以身戴行；补回OCR漏粕字"
+      ],
+      "sha256": "1201632e7d411552b4961ffa19b98495a1b69e418132a47266de18149b4606cd"
+    },
+    {
+      "file": "笔记/思法-06.md",
+      "title": "思法 第六章 学习法治思想 提升法治素养",
+      "printed_pages": [
+        289,
+        290,
+        291,
+        292,
+        293,
+        294,
+        295,
+        296,
+        297,
+        298,
+        299,
+        300,
+        301,
+        302,
+        303
+      ],
+      "source_pdf_pages_reviewed": [
+        298,
+        299,
+        300,
+        301,
+        302,
+        303,
+        304,
+        305,
+        306,
+        307,
+        308,
+        309,
+        310,
+        311,
+        312
+      ],
+      "start_boundary": "原PDF第298页第六章标题",
+      "end_boundary": "原PDF第312页末，313页起为空白笔记页",
+      "visual_review": true,
+      "tables_expanded": true,
+      "advertisements_headers_footers_removed": true,
+      "ocr_differences_checked": [
+        "对照原图补回依法、修正依法立法、孰先孰后和漏识句号"
+      ],
+      "sha256": "24867095647f5861b069c312f3c4074ae45eac953df1d010992f2ea074e6b156"
     }
   ],
-  "all_chapters_complete": false
+  "all_chapters_complete": true,
+  "final_validation": {
+    "date": "2026-10-23",
+    "chapter_count": 47,
+    "item_heading_count": 371,
+    "markdown_table_count": 219,
+    "example_count": 445,
+    "unknown_marker_count": 0,
+    "note_sha256_verified": true,
+    "chapter_index_links_verified": true,
+    "excluded_noncontent_pdf_pages": [
+      96,
+      138,
+      201,
+      202,
+      272
+    ],
+    "source_pdf_body_range": [
+      11,
+      312
+    ]
+  }
 }

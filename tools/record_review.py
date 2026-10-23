@@ -51,6 +51,7 @@ if __name__ == "__main__":
     order = {c["file"]: i for i, c in enumerate(plan)}
     progress["completed_chapters"].sort(key=lambda c: order[c["file"]])
     complete = {c["file"] for c in progress["completed_chapters"]}
+    progress["all_chapters_complete"] = len(complete) == len(plan)
     for chapter in plan:
         chapter["complete"] = chapter["file"] in complete
     save(progress_path, progress)

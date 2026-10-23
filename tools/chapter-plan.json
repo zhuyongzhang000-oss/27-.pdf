@@ -411,7 +411,7 @@
     "start_printed_page": 280,
     "start_pdf_page": 289,
     "file": "笔记/思法-05.md",
-    "complete": false
+    "complete": true
   },
   {
     "block": "思法",
@@ -420,6 +420,6 @@
     "start_printed_page": 289,
     "start_pdf_page": 298,
     "file": "笔记/思法-06.md",
-    "complete": false
+    "complete": true
   }
 ]
