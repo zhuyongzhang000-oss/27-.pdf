@@ -415,7 +415,7 @@
       "ocr_differences_checked": [
         "原书破折号被OCR识别为一或一—"
       ],
-      "sha256": "23f895010d24146cb9d427329445cc8870acc641db980ae9b7a816c033afccb2"
+      "sha256": "37687bf84ac5c76cec4f07e51a4aad488f50368d454de17d9750c374a9d60deb"
     },
     {
       "file": "笔记/毛中特-03.md",
@@ -529,7 +529,7 @@
       "ocr_differences_checked": [
         "原书a./b.例句序号依用户格式转换为对错项目；内联答案标题拆为标题和正文"
       ],
-      "sha256": "655d98246dff1a4b2904cb049e60babbd797918b461bacd7982e50130813530d"
+      "sha256": "831cf91f1ddc8135d0d8b0bc27fd36c19f439f057cdadc53d586f4d8b4195d78"
     },
     {
       "file": "笔记/毛中特-07-08.md",
@@ -615,7 +615,7 @@
       "tables_expanded": true,
       "advertisements_headers_footers_removed": true,
       "ocr_differences_checked": [],
-      "sha256": "d9d3ebe9626f405c348983b1ad0b7565e6c1710e8abe623efd3405ee389ca58c"
+      "sha256": "06f072387e6d90f9def161707982b78ac816c6444006c4b287e42d4230607d2c"
     },
     {
       "file": "笔记/习思想-03.md",
@@ -686,7 +686,7 @@
       "ocr_differences_checked": [
         "福祉被OCR识别为福社；⑤被OCR识别为数字5"
       ],
-      "sha256": "d73bc84349c53769e078eaddc895a5a6740b2cc301084faad260a6b3cdf6084b"
+      "sha256": "d48bf367ecf8f10db2b3f7bdf8eefef8c22bafeee8192c3c165a98ce88d72bd3"
     },
     {
       "file": "笔记/习思想-06.md",
@@ -752,7 +752,7 @@
       "tables_expanded": true,
       "advertisements_headers_footers_removed": true,
       "ocr_differences_checked": [],
-      "sha256": "60b3847eeb7d893ed5bf195a28dc8622888a59a438c5ae67c62d754c19af0ccb"
+      "sha256": "9c8e8d45d37061593b4a5da57de06a1233a7b5006a8fb1b410304f4df23f880a"
     },
     {
       "file": "笔记/习思想-08-09.md",
@@ -1069,7 +1069,7 @@
       "ocr_differences_checked": [
         "修正OCR漏聩、已己混淆、连接号识为一；统一战线表原书两个表头均为时间，保留原文"
       ],
-      "sha256": "0714420ecbca3bf12f8e42a7e61615893a2fdd48c945a76cbbbafef63932307a"
+      "sha256": "14eddd27e968ec88b838389b7a474984e82993edb8f9576a0133721577c89695"
     },
     {
       "file": "笔记/史纲-05.md",
@@ -1098,7 +1098,7 @@
       "tables_expanded": true,
       "advertisements_headers_footers_removed": true,
       "ocr_differences_checked": [],
-      "sha256": "4a82b2efe424f0d36303daf270a3727a9682d005b591df06d4acd957e1e6f875"
+      "sha256": "327452fc271af0edb7a7999320310be4799ed603b1724e0e39b1afb8bcec169f"
     },
     {
       "file": "笔记/史纲-06.md",
@@ -1141,7 +1141,7 @@
       "ocr_differences_checked": [
         "修正OCR傀愧混淆、连接号和内层书名号，并补回漏识句号"
       ],
-      "sha256": "f4d0025309c68237f632d6eba6e12e5f0c46e2cb75b14bff9b42f8a93e966fcd"
+      "sha256": "19b45b4b80e5b40296cf19b81a7eacd237b1d6d1cefabea352df019191a22b59"
     },
     {
       "file": "笔记/史纲-07.md",
@@ -1174,7 +1174,7 @@
       "ocr_differences_checked": [
         "修正OCR将破折号识为一或一一"
       ],
-      "sha256": "e83b1157e797ccad979daaa76c3409b26fca73ff89073bda8acc965257db216a"
+      "sha256": "1c2b13ac27666fc186213f23d4147e9804e1b879b4796e2fc97ab0de4958309e"
     },
     {
       "file": "笔记/史纲-08-10.md",
@@ -1211,7 +1211,7 @@
       "ocr_differences_checked": [
         "修正OCR漏籼、疟疤混淆、亟函混淆和连接号；保留原书有中国特点、适合中国情况措辞"
       ],
-      "sha256": "1fd8db71cfc4c5ae4ad823ec64be531627d0baca2cbdcb138cd323b997059959"
+      "sha256": "b3cb85da61d4090c6ed124f21790258c71452f5a365b882babd99e4f0b26754d"
     },
     {
       "file": "笔记/思法-00.md",
@@ -1230,7 +1230,7 @@
       "tables_expanded": true,
       "advertisements_headers_footers_removed": true,
       "ocr_differences_checked": [],
-      "sha256": "6049a8750bf1bb931c8b401eecbc5afb025d3b86610008c49c459425bdc5a386"
+      "sha256": "65f176fe7104f2608f716f2d2905e5fce7c9acc505eb954c09281b48f7f4469e"
     },
     {
       "file": "笔记/思法-01.md",
@@ -1253,7 +1253,7 @@
       "tables_expanded": true,
       "advertisements_headers_footers_removed": true,
       "ocr_differences_checked": [],
-      "sha256": "e3e38f68d73f5ee87652bd8447e0f59b9d357bc87b4962653afce2c92e5bd557"
+      "sha256": "5c3d6f03710396cc3ae1e3d57ab9a577a68373765fec97d23b4d28093df49b59"
     },
     {
       "file": "笔记/思法-02.md",
@@ -1276,7 +1276,7 @@
       "tables_expanded": true,
       "advertisements_headers_footers_removed": true,
       "ocr_differences_checked": [],
-      "sha256": "2f0c23cccba5fe2df41069bf683b87030476049a057b85cd228aabb3e9c5c354"
+      "sha256": "64a1955fa376781b9ba45ee8b02349945b14990de9b20c8b3b9abe8ad89248cd"
     },
     {
       "file": "笔记/思法-03.md",
@@ -1303,7 +1303,7 @@
       "ocr_differences_checked": [
         "核对古文箪、家箴家训，并补回OCR漏袤字"
       ],
-      "sha256": "1b774d3c42e2be0ff23c44cb604b0f3cbb0699770ccaa5a10c50b8248c9fb4b3"
+      "sha256": "c272e0a9249231af515c09ffbd47a029bd085635c927c4e37db839b7fd9e0a84"
     },
     {
       "file": "笔记/思法-04.md",
@@ -1326,7 +1326,7 @@
       "tables_expanded": true,
       "advertisements_headers_footers_removed": true,
       "ocr_differences_checked": [],
-      "sha256": "f282d318cc57fa0c22dc90f39811aa3bab03a3b1b2751c1cde49b9ec0a90e217"
+      "sha256": "2740ceb610166f374ee0e4890fcfe61f9d5bdaab4d390825d69ac9e5482fb312"
     },
     {
       "file": "笔记/思法-05.md",
@@ -1361,7 +1361,7 @@
       "ocr_differences_checked": [
         "核对古诗文原图，保留原书以身戴行；补回OCR漏粕字"
       ],
-      "sha256": "1201632e7d411552b4961ffa19b98495a1b69e418132a47266de18149b4606cd"
+      "sha256": "0a6d7a1b75fbd8e8ff0b98fe2eb741d7c05b173fb9ff38ec63bc77265647f132"
     },
     {
       "file": "笔记/思法-06.md",
@@ -1408,7 +1408,7 @@
       "ocr_differences_checked": [
         "对照原图补回依法、修正依法立法、孰先孰后和漏识句号"
       ],
-      "sha256": "24867095647f5861b069c312f3c4074ae45eac953df1d010992f2ea074e6b156"
+      "sha256": "6272853685be8d4fc132a5d959a72b77ce2a3a2a4bcbd6b2ea6ca3ac23b0cf81"
     }
   ],
   "all_chapters_complete": true,
@@ -1432,5 +1432,6 @@
       11,
       312
     ]
-  }
+  },
+  "note_hash_format": "SHA-256 of UTF-8 bytes with LF line endings"
 }
