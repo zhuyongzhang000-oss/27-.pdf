@@ -1099,6 +1099,119 @@
       "advertisements_headers_footers_removed": true,
       "ocr_differences_checked": [],
       "sha256": "4a82b2efe424f0d36303daf270a3727a9682d005b591df06d4acd957e1e6f875"
+    },
+    {
+      "file": "笔记/史纲-06.md",
+      "title": "史纲 第六章 中华民族的抗日战争",
+      "printed_pages": [
+        233,
+        234,
+        235,
+        236,
+        237,
+        238,
+        239,
+        240,
+        241,
+        242,
+        243,
+        244,
+        245
+      ],
+      "source_pdf_pages_reviewed": [
+        242,
+        243,
+        244,
+        245,
+        246,
+        247,
+        248,
+        249,
+        250,
+        251,
+        252,
+        253,
+        254
+      ],
+      "start_boundary": "原PDF第242页第六章标题",
+      "end_boundary": "原PDF第254页第七章标题之前",
+      "visual_review": true,
+      "tables_expanded": true,
+      "advertisements_headers_footers_removed": true,
+      "ocr_differences_checked": [
+        "修正OCR傀愧混淆、连接号和内层书名号，并补回漏识句号"
+      ],
+      "sha256": "f4d0025309c68237f632d6eba6e12e5f0c46e2cb75b14bff9b42f8a93e966fcd"
+    },
+    {
+      "file": "笔记/史纲-07.md",
+      "title": "史纲 第七章 为建立新中国而奋斗",
+      "printed_pages": [
+        245,
+        246,
+        247,
+        248,
+        249,
+        250,
+        251,
+        252
+      ],
+      "source_pdf_pages_reviewed": [
+        254,
+        255,
+        256,
+        257,
+        258,
+        259,
+        260,
+        261
+      ],
+      "start_boundary": "原PDF第254页第七章标题",
+      "end_boundary": "原PDF第261页末",
+      "visual_review": true,
+      "tables_expanded": true,
+      "advertisements_headers_footers_removed": true,
+      "ocr_differences_checked": [
+        "修正OCR将破折号识为一或一一"
+      ],
+      "sha256": "e83b1157e797ccad979daaa76c3409b26fca73ff89073bda8acc965257db216a"
+    },
+    {
+      "file": "笔记/史纲-08-10.md",
+      "title": "史纲 第八～十章 新中国时期",
+      "printed_pages": [
+        253,
+        254,
+        255,
+        256,
+        257,
+        258,
+        259,
+        260,
+        261,
+        262
+      ],
+      "source_pdf_pages_reviewed": [
+        262,
+        263,
+        264,
+        265,
+        266,
+        267,
+        268,
+        269,
+        270,
+        271
+      ],
+      "start_boundary": "原PDF第262页第八～十章标题",
+      "end_boundary": "原PDF第271页末",
+      "visual_review": true,
+      "tables_expanded": true,
+      "advertisements_headers_footers_removed": true,
+      "ocr_differences_checked": [
+        "修正OCR漏籼、疟疤混淆、亟函混淆和连接号；保留原书有中国特点、适合中国情况措辞"
+      ],
+      "sha256": "1fd8db71cfc4c5ae4ad823ec64be531627d0baca2cbdcb138cd323b997059959"
     }
   ],
   "all_chapters_complete": false
