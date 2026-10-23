@@ -1212,6 +1212,121 @@
         "修正OCR漏籼、疟疤混淆、亟函混淆和连接号；保留原书有中国特点、适合中国情况措辞"
       ],
       "sha256": "1fd8db71cfc4c5ae4ad823ec64be531627d0baca2cbdcb138cd323b997059959"
+    },
+    {
+      "file": "笔记/思法-00.md",
+      "title": "思法 绪论 担当复兴大任 成就时代新人",
+      "printed_pages": [
+        264,
+        265
+      ],
+      "source_pdf_pages_reviewed": [
+        273,
+        274
+      ],
+      "start_boundary": "原PDF第273页绪论标题",
+      "end_boundary": "原PDF第274页第一章标题之前",
+      "visual_review": true,
+      "tables_expanded": true,
+      "advertisements_headers_footers_removed": true,
+      "ocr_differences_checked": [],
+      "sha256": "6049a8750bf1bb931c8b401eecbc5afb025d3b86610008c49c459425bdc5a386"
+    },
+    {
+      "file": "笔记/思法-01.md",
+      "title": "思法 第一章 领悟人生真谛 把握人生方向",
+      "printed_pages": [
+        265,
+        266,
+        267,
+        268
+      ],
+      "source_pdf_pages_reviewed": [
+        274,
+        275,
+        276,
+        277
+      ],
+      "start_boundary": "原PDF第274页第一章标题",
+      "end_boundary": "原PDF第277页末",
+      "visual_review": true,
+      "tables_expanded": true,
+      "advertisements_headers_footers_removed": true,
+      "ocr_differences_checked": [],
+      "sha256": "e3e38f68d73f5ee87652bd8447e0f59b9d357bc87b4962653afce2c92e5bd557"
+    },
+    {
+      "file": "笔记/思法-02.md",
+      "title": "思法 第二章 追求远大理想 坚定崇高信念",
+      "printed_pages": [
+        269,
+        270,
+        271,
+        272
+      ],
+      "source_pdf_pages_reviewed": [
+        278,
+        279,
+        280,
+        281
+      ],
+      "start_boundary": "原PDF第278页第二章标题",
+      "end_boundary": "原PDF第281页第三章标题之前",
+      "visual_review": true,
+      "tables_expanded": true,
+      "advertisements_headers_footers_removed": true,
+      "ocr_differences_checked": [],
+      "sha256": "2f0c23cccba5fe2df41069bf683b87030476049a057b85cd228aabb3e9c5c354"
+    },
+    {
+      "file": "笔记/思法-03.md",
+      "title": "思法 第三章 继承优良传统 弘扬中国精神",
+      "printed_pages": [
+        272,
+        273,
+        274,
+        275,
+        276
+      ],
+      "source_pdf_pages_reviewed": [
+        281,
+        282,
+        283,
+        284,
+        285
+      ],
+      "start_boundary": "原PDF第281页第三章标题",
+      "end_boundary": "原PDF第285页末",
+      "visual_review": true,
+      "tables_expanded": true,
+      "advertisements_headers_footers_removed": true,
+      "ocr_differences_checked": [
+        "核对古文箪、家箴家训，并补回OCR漏袤字"
+      ],
+      "sha256": "1b774d3c42e2be0ff23c44cb604b0f3cbb0699770ccaa5a10c50b8248c9fb4b3"
+    },
+    {
+      "file": "笔记/思法-04.md",
+      "title": "思法 第四章 明确价值要求 践行价值准则",
+      "printed_pages": [
+        277,
+        278,
+        279,
+        280
+      ],
+      "source_pdf_pages_reviewed": [
+        286,
+        287,
+        288,
+        289
+      ],
+      "start_boundary": "原PDF第286页第四章标题",
+      "end_boundary": "原PDF第289页第五章标题之前",
+      "visual_review": true,
+      "tables_expanded": true,
+      "advertisements_headers_footers_removed": true,
+      "ocr_differences_checked": [],
+      "sha256": "f282d318cc57fa0c22dc90f39811aa3bab03a3b1b2751c1cde49b9ec0a90e217"
     }
   ],
   "all_chapters_complete": false
